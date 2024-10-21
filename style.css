@@ -14,3 +14,9 @@ body{
 .big-heading{
     font-size: 4rem;
 }
+
+@media(max-width: 450px){
+    .big-heading{
+        font-size: 2rem;
+    }
+}
